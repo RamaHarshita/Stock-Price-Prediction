@@ -1,2 +1,2 @@
 # Stock-Price-Prediction
-This model which is built upon LSTM can predict the stock prices.
+This model is built upon LSTM and can predict the stock prices with an MAE of 5.64%.
